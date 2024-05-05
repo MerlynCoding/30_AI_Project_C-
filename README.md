@@ -12,7 +12,7 @@ lets study AI together with me~~~~
   </tr>
   <tr>
     <td style="width: 33.33%;">1</td>
-    <td style="width: 33.33%;">Poetri_generating_text with RNN</td>
+    <td style="width: 33.33%;">Connect_Open_AI_c_Hashtag</td>
     <td style="width: 33.33%;">
       <a href="https://github.com/MerlynCoding/poetic_texts">
         <img src="https://tse1.mm.bing.net/th/id/OIG4.UDJI9JL455q_smLmM23a?pid=ImgGn" height="30" width="30" />
