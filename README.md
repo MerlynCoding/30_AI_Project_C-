@@ -1,6 +1,4 @@
 # 30_AI_Project_C_hashtag
-
-# 30_AI_Project
 Hi my name is Merlyn(謝欣恩) <br>
 lets study AI together with me~~~~
 
