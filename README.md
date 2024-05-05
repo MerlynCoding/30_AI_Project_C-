@@ -12,7 +12,7 @@ lets study AI together with me~~~~
     <td style="width: 33.33%;">1</td>
     <td style="width: 33.33%;">Connect_Open_AI_c_Hashtag</td>
     <td style="width: 33.33%;">
-      <a href="https://github.com/MerlynCoding/poetic_texts">
+      <a href="https://github.com/MerlynCoding/connect_openai_c_hashtag">
         <img src="https://tse1.mm.bing.net/th/id/OIG4.UDJI9JL455q_smLmM23a?pid=ImgGn" height="30" width="30" />
       </a>
     </td>
